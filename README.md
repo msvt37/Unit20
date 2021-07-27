@@ -7,5 +7,5 @@ Procedures:  Given the starter code, I filled in the additional needed code to c
 
 # Testing the contract
 
-The following image shows a successful funding for that address:
-![Funded](https://github.com/msvt37/Unit19_MultiBlockchain_Wallet/blob/04ec129ede62421681c0f5b3445b9ff0e6d84dbb/1stTransaction.PNG)
+The following image shows the setup for testing the contract with my local environment:
+![Contract](https://github.com/msvt37/Unit20/blob/354e6b3ff01af8e8944212a869e16ef216666cf6/Unit20.PNG)
